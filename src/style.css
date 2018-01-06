@@ -1,4 +1,12 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./Stay Wildy.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
 .hello {
   color: red;
+  font-family: 'MyFont';
   background: url('./WGAZ300-300x148.jpg');
 }
