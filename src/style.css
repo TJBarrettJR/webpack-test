@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'MyFont';
-  src: url('./Stay Wildy.ttf') format('ttf');
+  src: url('./stay_wildy-webfont.woff') format('woff'),
+       url('./stay_wildy-webfont.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
 }
