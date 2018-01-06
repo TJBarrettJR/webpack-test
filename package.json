@@ -13,7 +13,8 @@
     "lodash": "^4.17.4",
     "style-loader": "^0.19.1",
     "css-loader": "^0.28.7",
-    "file-loader": "^1.1.6"
+    "file-loader": "^1.1.6",
+    "url-loader": "^0.6.2"
   },
   "engines": {
     "node": "8.x"
