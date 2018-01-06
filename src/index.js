@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import './style.css';
-import Icon from 'https://cdn.hyperdev.com/paste-me.svg?1477325869954';
+import Icon from './WGAZ300-300x148.jpg';
 
 function component() {
   var element = document.createElement('div');
