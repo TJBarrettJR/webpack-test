@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import './style.css';
 import Icon from './WGAZ300-300x148.jpg';
+import Data from './data.xml';
 
 function component() {
   var element = document.createElement('div');
@@ -12,6 +13,8 @@ function component() {
   myIcon.src = Icon;
   
   element.appendChild(myIcon);
+  
+  console.log(Data);
   
   return element;
 }
